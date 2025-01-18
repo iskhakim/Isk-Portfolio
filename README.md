@@ -23,7 +23,7 @@ Hi, I'm **Iskandar Hakim**, a DevOps and Cloud Engineer passionate about designi
 
 ---
 
-## Professional Experience
+## Professional Development
 
 ### Cloud Support & DevOps Trainee  
 **Generation Singapore (Temasek Polytechnic)** | Nov 2024 - Present  
@@ -33,6 +33,9 @@ Hi, I'm **Iskandar Hakim**, a DevOps and Cloud Engineer passionate about designi
 - Maintained operational tools for deployment, monitoring, and analysis of cloud infrastructure systems.
 - Gained hands-on expertise in Linux Essentials, Python Essentials, DevOps Essentials, and tools like Terraform, Ansible, and Microsoft Azure.
 - Pursuing Microsoft Azure certifications (Azure Fundamentals and Azure Administrator) to solidify cloud expertise.
+---
+
+## Professional Experience
 
 ### IT Support Analyst  
 **WinSys Technology** | Nov 2024  
